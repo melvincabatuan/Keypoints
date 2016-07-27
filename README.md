@@ -10,13 +10,17 @@
 
 ![](https://github.com/melvincabatuan/Keypoints/blob/master/capture/kaze-2016-07-27-130346.png)
 
-## SIFT
+## SIFT 
+
+(Note: SIFT is a patented algorithm belonging to its respective owners.)
 
 ![](https://github.com/melvincabatuan/Keypoints/blob/master/capture/sift-2016-07-27-130049.png)
 
 ![](https://github.com/melvincabatuan/Keypoints/blob/master/capture/sift-2016-07-27-130135.png)
 
 ## SURF
+
+(Note: SURF is a patented algorithm belonging to its respective owners.)
 
 ![](https://github.com/melvincabatuan/Keypoints/blob/master/capture/surf-1fps-2016-07-27-125900.png)
 
