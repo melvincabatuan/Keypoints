@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+     
+    <item
+        android:id="@+id/action_rgb"
+        android:title="RGB"
+        app:showAsAction="always" />
+        
+    <item
+        android:id="@+id/action_gray"
+        android:title="GRAY"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_u"
+        android:title="  U  "
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_v"
+        android:title="  V  "
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_sift"
+        android:title="SIFT"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_surf"
+        android:title="SURF"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_kaze"
+        android:title="KAZE"
+        app:showAsAction="always" />
+
+</menu>

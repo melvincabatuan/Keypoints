@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white_disabled">#9bffffff</color>
+    <color name="header_background">@color/pink</color>
+    <color name="tabs_background">@color/deep_pink</color>
+    <color name="dialog_placeholder_color">#aa000000</color>
+
+    <color name="color_1">#FFffcdd2</color>
+    <color name="color_2">#FFf8bbd0</color>
+    <color name="color_3">#FFe1bee7</color>
+    <color name="color_4">#FFEEDFCC</color>
+    <color name="color_5">#FFf0f4c3</color>
+    <color name="color_6">#FFffe0b2</color>
+    <color name="color_7">#FFd7ccc8</color>
+    <color name="color_8">#FFcfd8dc</color>
+    <color name="color_9">#FFFFFCCF</color>
+    <color name="color_10">#FFffe5b4</color>
+    <color name="color_11">#FFaec6cf</color>
+    <color name="color_12">#FFadd8e6</color>
+    <color name="color_13">#FFd3d3d3</color>
+    <color name="color_14">#FFFFE7BA</color>
+    <color name="color_15">#FFffd39b</color>
+    <color name="color_16">#FFFFFACD</color>
+    <color name="color_17">#FFEEE8AA</color>
+    <color name="color_18">#FFFEE5AC</color>
+    <color name="color_19">#FFFFF8DC</color>
+    <color name="color_20">#FFE8F1D4</color>
+
+    <array name="fragment_colors">
+        <item>@color/color_1</item>
+        <item>@color/color_2</item>
+        <item>@color/color_3</item>
+        <item>@color/color_4</item>
+        <item>@color/color_5</item>
+        <item>@color/color_6</item>
+        <item>@color/color_7</item>
+        <item>@color/color_8</item>
+        <item>@color/color_9</item>
+        <item>@color/color_10</item>
+        <item>@color/color_11</item>
+        <item>@color/color_12</item>
+        <item>@color/color_13</item>
+        <item>@color/color_14</item>
+        <item>@color/color_15</item>
+        <item>@color/color_16</item>
+        <item>@color/color_17</item>
+        <item>@color/color_18</item>
+        <item>@color/color_19</item>
+        <item>@color/color_20</item>
+    </array>
+
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="pink">#FF69B4</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="light_pink">#FFE3EB</color>
+    <color name="deep_pink">#FF1493</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gray">#808080</color>
+    <color name="olive">#808000</color>
+    <color name="purple">#800080</color>
+    <color name="maroon">#800000</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="lime">#00FF00</color>
+    <color name="teal">#008080</color>
+    <color name="green">#008000</color>
+    <color name="hunter_green">#355E3B</color>
+    <color name="blue">#0000FF</color>
+    <color name="navy">#000080</color>
+    <color name="near_black">#101010</color>
+    <color name="black">#000000</color>
+    <color name="chrome_silver">#FFdbe4eb</color>
+    <color name="inverted_chrome">#FF241b14</color>
+    <color name="transparent">@android:color/transparent</color>
+</resources>
